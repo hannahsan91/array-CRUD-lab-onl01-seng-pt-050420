@@ -2,6 +2,8 @@ def create_an_empty_array
   []
 end
 
+lgbt_community = "lesbian", "gay", "bisexual", "transgender"
+
 def create_an_array
   lgbt_community = ["lesbian", "gay", "bisexual", "transgender"]
 end
